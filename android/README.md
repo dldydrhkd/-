@@ -32,14 +32,14 @@
 
 ### Result
 <p>
-    <img src="https://user-images.githubusercontent.com/48857296/101275834-2a837580-37ec-11eb-94d1-cee649746326.jpg" width="150" height="200">
-    <img src="https://user-images.githubusercontent.com/48857296/101276269-02e1dc80-37ef-11eb-9d83-91490095877d.jpg" width="150" height="200">
-    <img src="https://user-images.githubusercontent.com/48857296/101276307-518f7680-37ef-11eb-9fb9-2969908a5c49.jpg" width="150" height="200">
+    <img src="https://user-images.githubusercontent.com/48857296/101275834-2a837580-37ec-11eb-94d1-cee649746326.jpg" width="200" height="300">
+    <img src="https://user-images.githubusercontent.com/48857296/101276269-02e1dc80-37ef-11eb-9d83-91490095877d.jpg" width="200" height="300">
+    <img src="https://user-images.githubusercontent.com/48857296/101276307-518f7680-37ef-11eb-9fb9-2969908a5c49.jpg" width="200" height="300">
 </p>
 <p>
-    <img src="https://user-images.githubusercontent.com/48857296/101275725-53efd180-37eb-11eb-9ea8-33fd327ff699.jpg" width="150" height="200">
-    <img src="https://user-images.githubusercontent.com/48857296/101275819-0c1d7a00-37ec-11eb-953a-f332138316a2.jpg" width="150" height="200">
-    <img src="https://user-images.githubusercontent.com/48857296/101276386-92878b00-37ef-11eb-9679-d7123fd3a74b.jpg" width="150" height="200">
+    <img src="https://user-images.githubusercontent.com/48857296/101275725-53efd180-37eb-11eb-9ea8-33fd327ff699.jpg" width="2000" height="300">
+    <img src="https://user-images.githubusercontent.com/48857296/101275819-0c1d7a00-37ec-11eb-953a-f332138316a2.jpg" width="200" height="300">
+    <img src="https://user-images.githubusercontent.com/48857296/101276386-92878b00-37ef-11eb-9679-d7123fd3a74b.jpg" width="200" height="300">
 </p>
 
 
