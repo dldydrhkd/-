@@ -32,10 +32,8 @@
 
 ### Result
 <img src="https://user-images.githubusercontent.com/48857296/101275725-53efd180-37eb-11eb-9ea8-33fd327ff699.jpg" width="250" height="400">
-
 <img src="https://user-images.githubusercontent.com/48857296/101275819-0c1d7a00-37ec-11eb-953a-f332138316a2.jpg" width="250"
 height="400">
-
 <img src="https://user-images.githubusercontent.com/48857296/101275834-2a837580-37ec-11eb-94d1-cee649746326.jpg" width="250"
 height="400">
 
