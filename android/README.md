@@ -31,5 +31,6 @@
 
 
 ### Result
-<img src="![Screenshot_20201128-190353_Cloth for you](https://user-images.githubusercontent.com/48857296/101275725-53efd180-37eb-11eb-9ea8-33fd327ff699.jpg)">
+![Screenshot_20201128-190353_Cloth for you](https://user-images.githubusercontent.com/48857296/101275725-53efd180-37eb-11eb-9ea8-33fd327ff699.jpg)
+
 
