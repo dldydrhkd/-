@@ -28,3 +28,6 @@
 *   만약 "Failed to find target with hash string 'android-21'" 과 같이 비슷한 에러가 나면 다른 platform이나 tool을 설치해야할 수도 있다.
 
     `Run` 버튼(초록색 화살표)를 누른다.
+
+
+### Result
