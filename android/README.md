@@ -33,4 +33,6 @@
 ### Result
 ![Screenshot_20201128-190353_Cloth for you](https://user-images.githubusercontent.com/48857296/101275725-53efd180-37eb-11eb-9ea8-33fd327ff699.jpg)
 
+<img src="https://user-images.githubusercontent.com/48857296/101275725-53efd180-37eb-11eb-9ea8-33fd327ff699.jpg" width="350" height="700">
+
 
