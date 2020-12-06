@@ -1,0 +1,14 @@
+<resources>
+    <string name="tfe_od_app_name" translation_description="Object Detection demo app [CHAR_LIMIT=40]">Cloth for you</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+    <string name="top_title1">top_title1</string>
+    <string name="top_title2">top_title2</string>
+    <string name="top_title3">top_title3</string>
+    <string name="top_title4">top_title4</string>
+    <string name="top_title5">top_title5</string>
+    <string name="bot_title1">bot_title1</string>
+    <string name="bot_title2">bot_title2</string>
+    <string name="bot_title3">bot_title3</string>
+    <string name="bot_title4">bot_title4</string>
+    <string name="bot_title5">bot_title5</string>
+</resources>
