@@ -1,7 +1,7 @@
-Executable : C:\Users\hwang\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+Executable : /Users/lyk/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
 arguments : 
 -C
-C:\Users\hwang\android\android\sdk\.cxx\cmake\debug\x86
+/Users/lyk/Documents/GitHub/fashion-application-for-blind/android/sdk/.cxx/cmake/debug/x86
 opencv_jni_shared
 jvmArgs : 
 

@@ -1,7 +1,7 @@
 [
 {
-  "directory": "C:/Users/hwang/android/android/sdk/.cxx/cmake/debug/x86_64",
-  "command": "C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/hwang/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/hwang/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot    -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\opencv_jni_shared.dir\\dummy.cpp.o -c C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\dummy.cpp",
-  "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\dummy.cpp"
+  "directory": "/Users/lyk/Documents/GitHub/fashion-application-for-blind/android/sdk/.cxx/cmake/debug/x86_64",
+  "command": "/Users/lyk/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/lyk/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/lyk/Library/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/darwin-x86_64/sysroot    -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o -c /Users/lyk/Documents/GitHub/fashion-application-for-blind/android/sdk/libcxx_helper/dummy.cpp",
+  "file": "/Users/lyk/Documents/GitHub/fashion-application-for-blind/android/sdk/libcxx_helper/dummy.cpp"
 }
 ]

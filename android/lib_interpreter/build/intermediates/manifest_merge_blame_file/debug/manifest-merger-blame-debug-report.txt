@@ -6,8 +6,8 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="21"
-8-->C:\Users\hwang\android\android\lib_interpreter\src\main\AndroidManifest.xml
+8-->/Users/lyk/Documents/GitHub/fashion-application-for-blind/android/lib_interpreter/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->C:\Users\hwang\android\android\lib_interpreter\src\main\AndroidManifest.xml
+9-->/Users/lyk/Documents/GitHub/fashion-application-for-blind/android/lib_interpreter/src/main/AndroidManifest.xml
 10
 11</manifest>

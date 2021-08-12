@@ -1,3 +1,3 @@
-C:/Users/hwang/android/android/sdk/.cxx/cmake/release/arm64-v8a/CMakeFiles/opencv_jni_shared.dir
-C:/Users/hwang/android/android/sdk/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
-C:/Users/hwang/android/android/sdk/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/lyk/Documents/GitHub/fashion-application-for-blind/android/sdk/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/lyk/Documents/GitHub/fashion-application-for-blind/android/sdk/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/lyk/Documents/GitHub/fashion-application-for-blind/android/sdk/.cxx/cmake/release/arm64-v8a/CMakeFiles/opencv_jni_shared.dir

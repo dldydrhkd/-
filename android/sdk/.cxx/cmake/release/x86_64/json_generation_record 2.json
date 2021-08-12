@@ -1,0 +1,146 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 21 min SDK version: x86_64",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\build-tools\\29.0.2\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\build-tools\\30.0.2\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\emulator\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\extras\\intel\\Hardware_Accelerated_Execution_Manager\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\ndk\\21.1.6352462\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\ndk\\21.3.6528147\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\patcher\\v4\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\platform-tools\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\platforms\\android-26\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\platforms\\android-28\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\platforms\\android-30\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\sources\\android-28\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\sources\\android-30\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\system-images\\android-28\\google_apis_playstore\\x86\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\system-images\\android-30\\google_apis\\x86\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\tools\\package.xml",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027C:\\Users\\hwang\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027C:\\Users\\hwang\\android\\android\\sdk\\.cxx\\cmake\\release\\x86_64\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "C:\\Users\\hwang\\android\\android\\sdk\\libcxx_helper\\CMakeLists.txt",
+    "tag": "release|x86_64"
+  }
+]
